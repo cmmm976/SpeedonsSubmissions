@@ -60,7 +60,7 @@ def show_intro():
 
 def show_VODs():
     st.subheader("Evian au Stunfest 👀")
-    st_player("https://www.twitch.tv/videos/1052183272?&parent=share.streamlit.io")
+    st_player("https://www.player.twitch.tv/videos/1052183272?&parent=share.streamlit.io")
 
 
 def show_doc():

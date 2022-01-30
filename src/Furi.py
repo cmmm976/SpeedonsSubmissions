@@ -82,7 +82,7 @@ def show_VODs():
         st_player("https://youtu.be/zOh6Cs0-m6Y?t=698")
 
     with st.expander("Furi [Speedrun Mode] par Evian à l'ODJV 2021"):
-        st_player("https://www.twitch.tv/videos/1041171873?t=00h05m56s&parent=share.streamlit.io")
+        st_player("https://www.player.twitch.tv/videos/1041171873?t=00h05m56s&parent=share.streamlit.io")
 
 def show_doc():
     st.subheader("Le combo 7-8")
