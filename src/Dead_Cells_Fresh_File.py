@@ -17,7 +17,7 @@ def show_presentation():
     ## 🏃 Fresh File, une catégorie :
      * **palpitante** - de part la nature aléatoire du jeu, les retournements de situations lors d'une race peuvent être nombreux
      * **intense** - autour de 18 minutes RTA, la run est très dense et ne laisse pas le public s'ennuyer
-     * **reconnue** - montrée au Stunfest et à la GDQ
+     * **reconnue** - montrée au Stunfest, à la GDQ et sur IGN
     """
 
     """
@@ -34,7 +34,7 @@ def show_presentation():
     """
     * **Matash** :
       - speedrunner depuis 1 an, dont 3 mois sur Dead Cells
-      - **2ème en Fresh Fille**
+      - **2ème en Fresh File**
       - Etoile montante du speedrun de Dead Cells
     """
 
