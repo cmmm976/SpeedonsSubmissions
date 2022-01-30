@@ -6,7 +6,7 @@ def show_presentation():
     st.title("Notre proposition")
 
     """
-    ## 🎮 Un jeu :
+    ## 🎮 Furi, un jeu :
      * **visuel** - un boss rush centré sur l’apprentissage de patterns, la quintessence du jeu d’action exigeant
      * **apprécié** - après un début difficile, s’est écoulé à 700 000 exemplaires (+2,7 millions de téléchargements à travers l’abonnement PS Plus) fin 2020 grâce à son succès d’estime
      * **auditivement orgasmique (oui)** - la bande son cumule plus de 45 millions de vues sur Youtube
@@ -15,9 +15,10 @@ def show_presentation():
     st.video("https://j.gifs.com/qQLZ80.mp4")
 
     """
-    ## 🏃 Un speedrun :
-     * **skillé** - très peu de glitches, principalement un très haut niveau de jeu
-     * **reconnu** - montré à Interglitches, à l’ESA et à la GDQ
+    ## 🏃 Speedrun Mode, une catégorie :
+     * **skillée** - très peu de glitches, principalement un très haut niveau de jeu
+     * **dense** - autour de 35 minutes RTA, la run n'est ni trop courte ni trop longue
+     * **reconnue** - montré à Interglitches, à l’ESA et à la GDQ
     """
 
     """
