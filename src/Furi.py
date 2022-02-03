@@ -22,19 +22,13 @@ def show_presentation():
     """
 
     """
-    ## 👨🧑🏾🧑🏻 Trois runners :
-    
-    * **AEtienne** :
-      - speedrunner depuis 4 ans et demi, dont 2 ans sur Furi
-      - 11ème en mode normal, 3ème en mode difficile
-      - vétéran des marathons, dont l'**ESA, Interglitches et Speedons**
-      - **commentateur de légende**
+    ## 🧑🏾🧑🏻 Deux runners et 👨 un commentateur :
     """
-    st.image("https://cdn.discordapp.com/attachments/513701275305639947/936905684153434132/Sans_titre_1.jpg")
+    
     """
     * **Evian** :
       - speedrunner depuis 3 ans, dont 1 an sur Furi
-      - 10ème en mode normal, 5ème en mode difficile
+      - ~~10ème~~ 8ème depuis la soumission en mode normal (objectif : 4ème avant Speedons 2 😎), 5ème en mode difficile
       - a participé au **BSG, au Stunfest et à Interglitches**
       - **1,2 millions de vues** sur sa chaîne Youtube
     """
@@ -48,9 +42,17 @@ def show_presentation():
     """
 
     """
+    * **AEtienne** :
+      - speedrunner depuis 4 ans et demi, dont 2 ans sur Furi
+      - 11ème en mode normal, 3ème en mode difficile
+      - vétéran des marathons, dont l'**ESA, Interglitches et Speedons**
+      - **commentateur de légende**
+    """
+    st.image("https://cdn.discordapp.com/attachments/513701275305639947/936905684153434132/Sans_titre_1.jpg")
+
+    """
     ## ⚔️ De belles rivalités :
       - AEtienne a appris Evian à runner le jeu… pour se faire battre par l’élève lors d’une race à Interglitches. 
-        Le maître réussira-t-il à prendre sa revanche ou le jeune Padawan achèvera-t-il de prendre son envol ?
     """
     st.image("https://cdn.discordapp.com/attachments/931247875776729202/937288570669006898/wholesome_cleanup.png")
 
