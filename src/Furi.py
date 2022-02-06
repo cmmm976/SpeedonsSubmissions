@@ -28,7 +28,7 @@ def show_presentation():
     """
     * **Evian** :
       - speedrunner depuis 3 ans, dont 1 an sur Furi
-      - ~~10ème~~ 8ème depuis la soumission en mode normal (objectif : 4ème avant Speedons 2 😎), 5ème en mode difficile
+      - ~~10ème~~ ~~8ème~~ 6ème depuis la soumission en mode normal (objectif : 5ème avant Speedons 2 😎), 5ème en mode difficile
       - a participé au **BSG, au Stunfest et à Interglitches**
       - **1,2 millions de vues** sur sa chaîne Youtube
     """
