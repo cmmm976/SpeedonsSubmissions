@@ -25,7 +25,7 @@ def show_presentation():
     
     * **Evian** :
       - speedrunner depuis 3 ans, dont 2 ans sur Dead Cells
-      - ancien **recordman mondial** dans de multiples catégories, actuellement 3ème en Fresh File
+      - ancien **recordman mondial** dans de multiples catégories, actuellement 2ème en Fresh File
       - a participé au **BSG, au Stunfest et à Interglitches**
       - **1,2 millions de vues** sur sa chaîne Youtube
     """
