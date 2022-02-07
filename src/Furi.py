@@ -28,7 +28,7 @@ def show_presentation():
     """
     * **Evian** :
       - speedrunner depuis 3 ans, dont 1 an sur Furi
-      - ~~10ème~~ ~~8ème~~ 6ème depuis la soumission en mode normal (objectif : 5ème avant Speedons 2 😎), 5ème en mode difficile
+      - ~~10ème~~ ~~8ème~~ 6ème / 137 depuis la soumission (objectif : 5ème avant Speedons 2 😎) avec un temps de 29:18
       - a participé au **BSG, au Stunfest et à Interglitches**
       - **1,2 millions de vues** sur sa chaîne Youtube
     """
@@ -37,7 +37,7 @@ def show_presentation():
     """
     * **Jeremichto** :
       - speedrunner depuis 1 an
-      - 3ème en mode normal, **recordman de France**
+      - 3ème / 117 en mode normal avec un 28:48, **recordman de France**
       - point faible : trop fort
     """
 
